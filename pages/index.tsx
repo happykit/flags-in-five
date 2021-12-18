@@ -42,7 +42,7 @@ const Home: NextPage<ServerProps> = (props) => {
         <p className={styles.description}>
           Get started by following the{" "}
           <a
-            href="https://frontend-digest.com/next-js-feature-flags-in-5-minutes-c0fa6822b3b8"
+            href="https://frontend-digest.com/next-js-feature-flags-in-5-minutes-c0fa6822b3b8?sk=46fd76bdd3afb1ffdb96ed60f966c86c"
             className={styles.articleLink}
           >
             instructions

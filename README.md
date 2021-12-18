@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project that shows you how to use Feature Flags.
 
-[**Read the article to set up feature flags in five minutes.**](https://frontend-digest.com/next-js-feature-flags-in-5-minutes-c0fa6822b3b8)
+[**Read the article to set up feature flags in five minutes.**](https://frontend-digest.com/next-js-feature-flags-in-5-minutes-c0fa6822b3b8?sk=46fd76bdd3afb1ffdb96ed60f966c86c)
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Put your Environment Key into `.env.local` and start the app with `npm run dev`.
 
 ## About
 
-This package was created for [the accompanying article](https://frontend-digest.com/next-js-feature-flags-in-5-minutes-c0fa6822b3b8) which teaches you how to create feature flags in five minutes.
+This package was created for [the accompanying article](https://frontend-digest.com/next-js-feature-flags-in-5-minutes-c0fa6822b3b8?sk=46fd76bdd3afb1ffdb96ed60f966c86c) which teaches you how to create feature flags in five minutes.
 
 ## Resources
 
