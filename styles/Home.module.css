@@ -28,12 +28,16 @@
   flex-grow: 1;
 }
 
+.articleLink,
 .title a {
   color: #0070f3;
   text-decoration: none;
 }
 
-.title a:hover,
+.articleLink:hover,
+.articleLink:focus,
+.articleLink:active,
+.articleLink:hover,
 .title a:focus,
 .title a:active {
   text-decoration: underline;
@@ -104,7 +108,7 @@
 }
 
 .logo {
-  height: 1em;
+  height: 2em;
   margin-left: 0.5rem;
 }
 

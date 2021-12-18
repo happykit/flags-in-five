@@ -1,0 +1,9 @@
+.banner {
+  background-color: rgb(5 150 105);
+  border-radius: 4px;
+  padding: 16px;
+  color: rgb(236 253 245);
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+  margin-bottom: 16px;
+}

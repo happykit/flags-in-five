@@ -1,15 +1,14 @@
-> WORK IN PROGRESS
-> 
-> This is not ready for use yet.
-
 This is a [Next.js](https://nextjs.org/) project that shows you how to use Feature Flags.
+
+[**Read the article to set up feature flags in five minutes.**](#)
 
 ## Getting Started
 
+Put your Environment Key into `.env.local` and start the app with `npm run dev`.
 
-Start by opening https://githubblitz.com/happykit/flags-in-five
+## About
 
-
+This package was created for [the accompanying article](#) which teaches you how to create feature flags in five minutes.
 
 ## Resources
 
