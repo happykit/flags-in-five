@@ -1,5 +1,6 @@
 import { configure } from "@happykit/flags/config";
 
 configure({
-  envKey: process.env.NEXT_PUBLIC_FLAGS_ENVIRONMENT_KEY!,
+  // Replace this with your own
+  envKey: "flags_pub_development_317896002361099840",
 });
