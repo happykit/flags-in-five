@@ -1,13 +1,13 @@
 import type { GetServerSideProps, NextPage } from "next";
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import { useFlags, InitialFlagState, Flags } from "@happykit/flags/client";
-import { getFlags } from "@happykit/flags/server";
+import { useFlags, InitialFlagState } from "flags/client";
+import { getFlags } from "flags/server";
 import { Logo } from "../components/logo";
 import dynamic from "next/dynamic";
 import React from "react";
 
-type ServerProps = { initialFlagState: InitialFlagState<Flags> };
+type ServerProps = { initialFlagState: InitialFlagState };
 
 export const getServerSideProps: GetServerSideProps<ServerProps> = async (
   context

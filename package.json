@@ -8,19 +8,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@happykit/flags": "2.0.2",
+    "@happykit/flags": "3.0.0",
     "confetti-react": "2.5.0",
-    "next": "12.0.7",
-    "react": "17.0.2",
-    "react-confetti": "6.0.1",
-    "react-dom": "17.0.2",
-    "react-use": "17.3.1"
+    "next": "12.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-use": "17.4.0"
   },
   "devDependencies": {
-    "@types/node": "16.11.12",
-    "@types/react": "17.0.37",
-    "eslint": "8.4.1",
-    "eslint-config-next": "12.0.7",
-    "typescript": "4.5.3"
+    "@types/node": "18.7.16",
+    "@types/react": "18.0.19",
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.0",
+    "typescript": "4.8.3"
   }
 }
